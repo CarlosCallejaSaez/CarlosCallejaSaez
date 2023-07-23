@@ -1,9 +1,10 @@
 
-👋 Hi there, I'm Carlos Calleja Sáez 
+# 👋 Hi there!
+## I'm Carlos Calleja Sáez 
 
 
 # 💫 About Me:
-I'm currently learning at RockTheCode 
+## I'm currently learning at RockTheCode 
 
 
 # 💻 Tech Stack:
