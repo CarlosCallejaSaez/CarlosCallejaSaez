@@ -1,7 +1,9 @@
 
 # 👋 Hi there!
  **I'm Carlos Calleja Sáez**
-
+ 
+ ![Codewars](https://www.codewars.com/users/CarlosCallejaSaez/badges/small )
+ 
  ![Codewars](https://github.r2v.ch/codewars?user=CarlosCallejaSaez&stroke=%23BB432C)
 
 
