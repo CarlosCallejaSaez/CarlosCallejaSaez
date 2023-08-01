@@ -2,6 +2,8 @@
 # 👋 Hi there!
  **I'm Carlos Calleja Sáez**
 
+ ![Codewars](https://github.r2v.ch/codewars?user=CarlosCallejaSaez&stroke=%23BB432C)
+
 
 # 💫 About Me:
  **I'm currently learning at RockTheCode** 
